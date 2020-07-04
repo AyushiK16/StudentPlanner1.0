@@ -1,5 +1,5 @@
 class Button {
-/*
+
     constructor() {
       this.dashboardButton = createButton('Dashboard');
       this.reminderButton = createButton('Reminders');
@@ -48,4 +48,4 @@ class Button {
     }
   
   }
-    /* 
+    
